@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @younghucker
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on opensource project to improve my skills
+- 💞️ I’m looking to collaborate on opensource projects to improve my skills
 - 📫 You can reach me through messages
 
 <!---
